@@ -16,3 +16,7 @@ follows the **Auto Assembly format**, enabling seamless copying and pasting for 
 - **Memory Region Details**: Displays the size of the memory region where the byte sequence is located.  
 
 This tool simplifies the process of locating unique byte patterns in memory, making it useful for debugging, Creating cheats, and various memory analysis tasks.
+#
+
+## **Connect with Us**  
+We invite you to join our community on [Discord](https://discord.com/invite/jRnaeTJ) for discussions, support, and updates
